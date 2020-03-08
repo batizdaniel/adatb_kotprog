@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="54cm" height="29cm" viewBox="263 511 1062 572" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="396" y="593" width="120.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="396" y="593" width="120.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="456.2" y="614.2">Felhasználók</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="414" y="970" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="414" y="970" width="89.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="458.8" y="991.2">Termékek</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1086" y="968" width="66.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1086" y="968" width="66.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1119.25" y="989.2">Kosár</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1065" y="582" width="105" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1065" y="582" width="105" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1117.5" y="603.2">Rendelések</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="410.55" cy="530" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="410.55" cy="530" rx="31.55" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="410.55" y="533.2">Név</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="308.1" cy="624" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="308.1" cy="624" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="308.1" cy="624" rx="35.1" ry="14"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="308.1" y="627.2">Lakcím</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="610.25" cy="591" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="610.25" cy="591" rx="39.25" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="610.25" y="594.2">Email</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="591" y1="599" x2="629.5" y2="599"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="545.75" cy="535" rx="77.75" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="545.75" cy="535" rx="77.75" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="545.75" y="538.2">Születési dátum</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="524.532" y1="553.007" x2="478.598" y2="591.991"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="420.698" y1="548.005" x2="445.495" y2="592.006"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="351.281" y1="620.21" x2="395.004" y2="616.372"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="571.493" y1="596.032" x2="517.401" y2="603.054"/>
+  <g>
+    <polygon style="fill: #ffffff" points="412,778.17 458.95,750 505.9,778.17 458.95,806.34 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="412,778.17 458.95,750 505.9,778.17 458.95,806.34 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="406" y="772.17"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="511.9" y="772.17"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="458.95" y="781.37">Keresés</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="456.512" y1="629.978" x2="458.31" y2="739.274"/>
+    <polygon style="fill: #000000" points="458.434,746.773 453.27,736.857 458.31,739.274 463.268,736.692 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.434,746.773 453.27,736.857 458.31,739.274 463.268,736.692 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="458.929" y1="807.332" x2="458.821" y2="959.284"/>
+    <polygon style="fill: #000000" points="458.815,966.784 453.822,956.78 458.821,959.284 463.822,956.788 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.815,966.784 453.822,956.78 458.821,959.284 463.822,956.788 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="736,987.03 806.05,945 876.1,987.03 806.05,1029.06 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="736,987.03 806.05,945 876.1,987.03 806.05,1029.06 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="730" y="981.03"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="882.1" y="981.03"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="806.05" y="990.23">Kosárba rakás</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="504.591" y1="987.872" x2="725.26" y2="987.256"/>
+    <polygon style="fill: #000000" points="732.76,987.235 722.774,992.263 725.26,987.256 722.746,982.263 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="732.76,987.235 722.774,992.263 725.26,987.256 722.746,982.263 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="877.095" y1="986.796" x2="1077.7" y2="986.137"/>
+    <polygon style="fill: #000000" points="1085.2,986.112 1075.22,991.145 1077.7,986.137 1075.19,981.145 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1085.2,986.112 1075.22,991.145 1077.7,986.137 1075.19,981.145 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1055,785.41 1117.35,748 1179.7,785.41 1117.35,822.82 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1055,785.41 1117.35,748 1179.7,785.41 1117.35,822.82 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1049" y="779.41"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1185.7" y="779.41"></text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1117.35" y="788.61">Megrendelés</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1119.07" y1="967.097" x2="1117.81" y2="833.552"/>
+    <polygon style="fill: #000000" points="1117.73,826.052 1122.83,836.005 1117.81,833.552 1112.83,836.099 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1117.73,826.052 1122.83,836.005 1117.81,833.552 1112.83,836.099 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1117.38" y1="746.996" x2="1117.48" y2="628.657"/>
+    <polygon style="fill: #000000" points="1117.48,621.157 1122.47,631.161 1117.48,628.657 1112.47,631.153 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1117.48,621.157 1122.47,631.161 1117.48,628.657 1112.47,631.153 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="383.55" cy="1061" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="383.55" cy="1061" rx="31.55" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="383.55" y="1064.2">Név</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="504.2" cy="1064" rx="66.2" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="504.2" cy="1064" rx="66.2" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="504.2" cy="1064" rx="58.2" ry="14"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="504.2" y="1067.2">Specifikáció</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="311.7" cy="1043" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="311.7" cy="1043" rx="27.7" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="311.7" y="1046.2">Ár</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="319.65" cy="988" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="319.65" cy="988" rx="54.65" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="319.65" y="991.2">Azonosító</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="285" y1="996" x2="354.3" y2="996"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="412.997" y1="988" x2="375.305" y2="988"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="439.207" y1="1007.01" x2="400.25" y2="1044.8"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="413.002" y1="1005.12" x2="336.642" y2="1033.67"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="470.156" y1="1007.01" x2="493.094" y2="1045.41"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1016.65" cy="1043" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1016.65" cy="1043" rx="54.65" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1016.65" y="1046.2">Azonosító</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="982" y1="1051" x2="1051.3" y2="1051"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1146.35" cy="1044" rx="62.35" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1146.35" cy="1044" rx="62.35" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1146.35" y="1047.2">Felhasználó</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1271.25" cy="1042" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1271.25" cy="1042" rx="39.25" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1271.25" y="1045.2">Dátum</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1272.8" cy="983" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1272.8" cy="983" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1272.8" cy="983" rx="42.8" ry="14"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1272.8" y="986.2">Termékek</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1085.06" y1="1005" x2="1045.36" y2="1027.05"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1128.12" y1="1004.99" x2="1137.6" y2="1025.28"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1153.48" y1="998.612" x2="1239.74" y2="1030.39"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1153.48" y1="985.331" x2="1221.14" y2="984.009"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1038.35" cy="530" rx="62.35" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1038.35" cy="530" rx="62.35" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1038.35" y="533.2">Felhasználó</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="909.65" cy="554" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="909.65" cy="554" rx="54.65" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="909.65" y="557.2">Azonosító</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="875" y1="562" x2="944.3" y2="562"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1164.25" cy="531" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1164.25" cy="531" rx="39.25" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1164.25" y="534.2">Kosár</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1263.25" cy="538" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1263.25" cy="538" rx="39.25" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1263.25" y="541.2">Dátum</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1058.45" y1="547.778" x2="1096.09" y2="581.064"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="955.993" y1="564.256" x2="1064" y2="588.16"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1152.05" y1="549.008" x2="1130.33" y2="581.065"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1233.56" y1="550.632" x2="1162.05" y2="581.049"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="307.1" cy="566" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="307.1" cy="566" rx="43.1" ry="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="307.1" y="569.2">Jelszó</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="395" y1="592.529" x2="342.955" y2="576.822"/>
+</svg>
